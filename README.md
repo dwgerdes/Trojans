@@ -13,4 +13,5 @@ will do the following:
 * Integrate these objects for 1 million years to determine their dynamical stability. Unstable objects are discarded.
 * Write the surviving objects to the `JT_test` directory. The Trojans are saved as individual `SpaceRock` objects, and all of their orbital elements are collected into a single .csv file.
 
+Note that generating many Trojans or doing very long integrations can take a considerable amount of time! I recommend starting with a small number of objects to gauge your resource requirements.
 The accompanying `Fake Jupiter Trojans` notebook contains code for making some basic plots of the results.
