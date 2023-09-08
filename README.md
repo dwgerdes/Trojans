@@ -1,6 +1,6 @@
 # Trojans
 
-This repository contains some code to generate and analyze synthetic Jupiter Trojans. For background information on solar system dynamics and Jupiter Trojans, see the companion LucyOcc 
+This repository contains some code to generate and analyze synthetic Jupiter Trojans. For background information on solar system dynamics and Jupiter Trojans, see the companion 
 [LucyOcc](https://github.com/dwgerdes/LucyOcc/) repository. It makes heavy use of Kevin Napier's [SpaceRocks](https://github.com/kjnapier/spacerocks) package.
 
 The `makeTrojans.py` file is a configurable script to generate Jupiter Trojans, although it could be easily modified to generate other types of Trojans, e.g. Neptune Trojans. It's designed to be run at the command line with a set of user-configurable options. For example, the command
