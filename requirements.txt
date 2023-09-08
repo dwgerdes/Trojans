@@ -1,0 +1,5 @@
+pandas~=2.1.0
+rebound~=3.26.3
+numpy~=1.25.2
+spacerocks~=2.3.5
+astropy~=5.3.3
